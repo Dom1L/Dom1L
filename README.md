@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a PhD student in the faculty of physics in the Computational Materials Design group (Prof. von Lilienfeld) at the University of Vienna.
+PhD student in the Computational Materials Design Group (Prof. von Lilienfeld) at the Physics Faculty of the University of Vienna.
 - :telescope: Accelerating molecular materials design with machine learning and _ab initio_ simulations 
 - :atom: Quantum Chemistry, Cheminformatics, Protein Design
 - 🤖  Machine Learning and Data Science
